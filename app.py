@@ -255,7 +255,7 @@ else:
 st.write("")
 st.markdown("---")
 
-st.subheader("IMPORTANTE - Bicas")
+st.subheader("IMPORTANTE - GOAT Francisco G")
 try:
     # Tenta carregar imagem local se existir, senão usa link
     st.image("meme.jpg", caption="Quem não votar Cotrim é gayyyyy", width=400)
